@@ -1,9 +1,11 @@
 # 141 Final Project
 UC Davis - STA 141B Final Project
 
-**Group members**:
-* Yixuan Li
-* Shuying Li
-* Yinyin Guan
-* xxx Niu
-* xxxxx
+> **Warning**
+> Under construction and wait for details.
+
+## Useful information:
+
+1. [Basic Git](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
+> **Note**
+> Basic knowledge of Git and Github
