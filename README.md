@@ -13,6 +13,16 @@ UC Davis - STA 141B Final Project
 1. **Get token**: Account > Settings > Developer settings > Personal access tokens > Generate new token
 2. Use that generated token when **git push**
 
+<div class="warning" style='background-color:#fff3f3; color: #00000; border-left: solid #F67280 6px; border-radius: 5px; padding:0.6em;'>
+<span>
+<p style='margin-top:0.5em; text-align:left'>
+<b>Other configurations:<b></p>
+<p style='margin-left:5em;'>
+
+[Configurations Documentation](Configurations.md)
+</p></span>
+</div>
+
 ## Useful Materials
 
 1. [Basic Git 1](https://backlog.com/git-tutorial/cn/intro/intro1_1.html)
