@@ -61,3 +61,4 @@ pip install pyppeteer
 > Markdown and LaTex in Jupyter Notebook: [Link](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
 
 ---
+
