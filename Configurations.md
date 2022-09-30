@@ -15,7 +15,7 @@
 ```bash
 pip install jupyter_contrib_nbextensions
 ```
-如果你是直接下载了ananoca直接将`pip`替换成`conda`, 如果有其他报错可以检查一下环境。
+如果你是直接下载了Anaconda直接将`pip`替换成`conda`, 如果有其他报错可以检查一下环境。
 
 ![](images/2022-09-29-09-23-39.png)
 
