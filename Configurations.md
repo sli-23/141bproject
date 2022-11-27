@@ -6,7 +6,7 @@
     - [Jupyter Notebook Theme](#jupyter-notebook-theme)
     - [Convert to PDF](#convert-to-pdf)
       - [LaTex - PDF （推荐使用latex因为效果更好）](#latex---pdf-推荐使用latex因为效果更好)
-      - [HTML -> PDF （建议不要使用暗色系主题要不然导出的pdf会出现output看不见的情况）](#html---pdf-建议不要使用暗色系主题要不然导出的pdf会出现output看不见的情况)
+      - [HTML -\> PDF （建议不要使用暗色系主题要不然导出的pdf会出现output看不见的情况）](#html---pdf-建议不要使用暗色系主题要不然导出的pdf会出现output看不见的情况)
 
 ## Jupyter Notebook
 
