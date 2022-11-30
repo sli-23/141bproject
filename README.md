@@ -3,8 +3,8 @@ UC Davis - STA 141B Final Project
 
 > **Note**
 > 
-> * **Colab Link (Contain Interactive Graph)**: [Click here](https://colab.research.google.com/drive/1pczXxVM3WFalNuPXkE6oGTdR7Qq_WX14?usp=sharing)
-> * **Jupyter Notebook (Without Interactive Graph)**: [Click here](https://github.com/sli-23/141project/blob/main/STA141BFinalProject.ipynb)
+> * **Colab Link**: [Click here](https://colab.research.google.com/drive/1pczXxVM3WFalNuPXkE6oGTdR7Qq_WX14?usp=sharing)
+> * **Jupyter Notebook**: [Click here](https://github.com/sli-23/141project/blob/main/STA141BFinalProject.ipynb)
 
 > **Note**
 > 
