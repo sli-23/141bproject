@@ -1,6 +1,5 @@
 # STA 141B Final Project
 
-
 ### UC Davis - STA 141B Final Project
 * **Authors**: Chiyang Chen, Yinyin Guan, Purui Niu, Shuying Li, Yixuan Li
 
