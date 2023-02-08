@@ -7,7 +7,7 @@
 
 > **Note**
 >
-> * **Project online version**: [Link](https://sli-23.github.io/141project/)
+> * **Project online version**: [Link](https://sli-23.github.io/141bproject/)
 > * **Proposal**: [Latex](https://www.overleaf.com/9823217632srwkshctbrmd)
 > * **Report**: [Latex](https://www.overleaf.com/4224522178csppcpwgcqst)
 > * **Presentation**: [Slides](https://docs.google.com/presentation/d/1VW1I-qKfIku8DwwTyGibQOvgtBOpEakpLM2pziOAptI/edit?usp=sharing)
